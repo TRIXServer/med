@@ -6,13 +6,13 @@
 
 nav a {
     list-style-type: none;
-    display:block;
+    display: block;
     text-align: center;
     text-decoration: none;
     background-color: darkgray;
     color: blueviolet;
     font-size: xx-large;
-    margin:1rem;
+    margin: 1rem;
 
 }
 
